@@ -1,0 +1,28 @@
+Feature,Importance
+Have you ever had suicidal thoughts ?,0.2982929342551178
+Academic Pressure,0.11226876955961945
+CGPA,0.09326018334746813
+Age,0.07807919151744717
+City_freq,0.07213710133293501
+Degree_freq,0.06162679278580227
+Work/Study Hours,0.05729622683698537
+Financial Stress_5.0,0.03335477532474658
+Well_being_Index,0.023631188598745807
+Study Satisfaction,0.02058313283252929
+Combined_Stress_Index,0.018671670497137197
+Financial Stress_4.0,0.01842817226693978
+Dietary Habits_Unhealthy,0.015956346167244454
+Sleep Duration_'More than 8 hours',0.013172836789690575
+Financial Stress_3.0,0.013148573265138826
+Gender,0.012770801289834112
+Family History of Mental Illness,0.012680347863364375
+Sleep Duration_'Less than 5 hours',0.012648658381740369
+Sleep Duration_'7-8 hours',0.011559019164546156
+Dietary Habits_Moderate,0.011314363405801728
+Financial Stress_2.0,0.008606562141842447
+Profession_freq,0.0001716417733902326
+Financial Stress_?,0.0001711629957796631
+Dietary Habits_Others,0.00016954760615320858
+Job Satisfaction,0.0
+Work Pressure,0.0
+Sleep Duration_Others,0.0

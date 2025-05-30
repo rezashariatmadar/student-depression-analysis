@@ -1,0 +1,22 @@
+|--- Have you ever had suicidal thoughts ? <= -0.27
+|   |--- Academic Pressure <= 0.26
+|   |   |--- Financial Stress_5.0 <= 0.62
+|   |   |   |--- class: 0
+|   |   |--- Financial Stress_5.0 >  0.62
+|   |   |   |--- class: 0
+|   |--- Academic Pressure >  0.26
+|   |   |--- Financial Stress_5.0 <= 0.62
+|   |   |   |--- class: 0
+|   |   |--- Financial Stress_5.0 >  0.62
+|   |   |   |--- class: 1
+|--- Have you ever had suicidal thoughts ? >  -0.27
+|   |--- Academic Pressure <= -0.47
+|   |   |--- Financial Stress_5.0 <= 0.62
+|   |   |   |--- class: 0
+|   |   |--- Financial Stress_5.0 >  0.62
+|   |   |   |--- class: 1
+|   |--- Academic Pressure >  -0.47
+|   |   |--- Academic Pressure <= 0.26
+|   |   |   |--- class: 1
+|   |   |--- Academic Pressure >  0.26
+|   |   |   |--- class: 1

@@ -1,0 +1,9 @@
+Classification Report for Optimized Decision Tree:
+              precision    recall  f1-score   support
+
+           0       0.82      0.75      0.78      2892
+           1       0.83      0.88      0.86      4084
+
+    accuracy                           0.83      6976
+   macro avg       0.83      0.82      0.82      6976
+weighted avg       0.83      0.83      0.83      6976

@@ -1,0 +1,9 @@
+Classification Report for Bernoulli Naive Bayes:
+              precision    recall  f1-score   support
+
+           0       0.77      0.69      0.73      2892
+           1       0.80      0.85      0.82      4084
+
+    accuracy                           0.79      6976
+   macro avg       0.78      0.77      0.78      6976
+weighted avg       0.79      0.79      0.78      6976
